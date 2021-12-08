@@ -30,3 +30,15 @@
     height: 50px;
     width: 50px;
 }
+@media (max-width: 500px) {
+    .img{
+        width: 350px;
+        height: 350px;
+    }
+}
+@media (max-width: 360px) {
+    .img{
+        width: 300px;
+        height: 300px;
+    }
+}
